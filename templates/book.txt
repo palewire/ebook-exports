@@ -1,0 +1,8 @@
+{% for obj in obj_list %}
+{{ obj.name }}
+{% if obj.text %}
+{{ obj.text }}
+
+
+{% endif %}
+{% endfor %}

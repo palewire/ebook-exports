@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Tulips",
+    "slug": "tulips",
+    "children": [
+      {
+        "name": "Epithalamion",
+        "slug": "epithalamion"
+      },
+      {
+        "name": "Of Nicolette",
+        "slug": "of-nicolette"
+      },
+      {
+        "name": "Songs",
+        "slug": "songs",
+        "children": [
+          {
+            "name": "I",
+            "slug": "songs-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "songs-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "songs-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "songs-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "songs-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "songs-vi",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Puella Mea",
+        "slug": "puella-mea"
+      },
+      {
+        "name": "Chansons Innocentes",
+        "slug": "chansons-innocentes",
+        "children": [
+          {
+            "name": "I",
+            "slug": "chansons-innocentes-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "chansons-innocentes-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "chansons-innocentes-iii",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Orientale",
+        "slug": "orientale",
+        "children": [
+          {
+            "name": "I",
+            "slug": "orientale-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "orientale-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "orientale-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "orientale-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "orientale-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "orientale-vi",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Amores",
+        "slug": "amores",
+        "children": [
+          {
+            "name": "I",
+            "slug": "amores-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "amores-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "amores-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "amores-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "amores-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "amores-vi",
+            "numeral": true
+          },
+          {
+            "name": "VII",
+            "slug": "amores-vii",
+            "numeral": true
+          },
+          {
+            "name": "VIII",
+            "slug": "amores-viii",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "La Guerre",
+        "slug": "la-guerre",
+        "children": [
+          {
+            "name": "I",
+            "slug": "la-guerre-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "la-guerre-ii",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Impressions",
+        "slug": "impressions",
+        "children": [
+          {
+            "name": "I",
+            "slug": "impressions-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "impressions-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "impressions-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "impressions-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "impressions-v",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Portraits",
+        "slug": "portraits",
+        "children": [
+          {
+            "name": "I",
+            "slug": "portraits-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "portraits-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "portraits-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "portraits-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "portraits-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "portraits-vi",
+            "numeral": true
+          },
+          {
+            "name": "VII",
+            "slug": "portraits-vii",
+            "numeral": true
+          },
+          {
+            "name": "VIII",
+            "slug": "portraits-viii",
+            "numeral": true
+          },
+          {
+            "name": "IX",
+            "slug": "portraits-ix",
+            "numeral": true
+          },
+          {
+            "name": "X",
+            "slug": "portraits-x",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Post Impressions",
+        "slug": "post-impressions",
+        "children": [
+          {
+            "name": "I",
+            "slug": "post-impressions-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "post-impressions-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "post-impressions-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "post-impressions-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "post-impressions-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "post-impressions-vi",
+            "numeral": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chimneys",
+    "slug": "chimneys",
+    "children": [
+      {
+        "name": "Sonnets\u2014Realities",
+        "slug": "sonnets-realities",
+        "children": [
+          {
+            "name": "I",
+            "slug": "sonnets-realities-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "sonnets-realities-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "sonnets-realities-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "sonnets-realities-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "sonnets-realities-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "sonnets-realities-vi",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Sonnets\u2014Unrealities",
+        "slug": "sonnets-unrealities",
+        "children": [
+          {
+            "name": "I",
+            "slug": "sonnets-unrealities-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "sonnets-unrealities-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "sonnets-unrealities-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "sonnets-unrealities-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "sonnets-unrealities-v",
+            "numeral": true
+          },
+          {
+            "name": "VI",
+            "slug": "sonnets-unrealities-vi",
+            "numeral": true
+          }
+        ]
+      },
+      {
+        "name": "Sonnets\u2014Actualities",
+        "slug": "sonnets-actualities",
+        "children": [
+          {
+            "name": "I",
+            "slug": "sonnets-actualities-i",
+            "numeral": true
+          },
+          {
+            "name": "II",
+            "slug": "sonnets-actualities-ii",
+            "numeral": true
+          },
+          {
+            "name": "III",
+            "slug": "sonnets-actualities-iii",
+            "numeral": true
+          },
+          {
+            "name": "IV",
+            "slug": "sonnets-actualities-iv",
+            "numeral": true
+          },
+          {
+            "name": "V",
+            "slug": "sonnets-actualities-v",
+            "numeral": true
+          }
+        ]
+      }
+    ]
+  }
+]
